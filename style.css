@@ -15,19 +15,25 @@ body {
     width: auto;
     background-color: rgb(106, 65, 219);
     padding: 40px;
-    margin: -10px;
+    margin: -8px;
     color: white;
 }
 
 #texto {
     font-size: 25px;
     padding: 5px;
+    line-height: 35px;
 }
 
 #calculadora {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    background-color: rgb(106, 65, 219);
+    color: white;
+    width: 390px;
+    height: 300px;
+    padding-top: 10px;
 }
 
 input {
@@ -35,14 +41,13 @@ input {
     padding: 10px;
     margin: 5px;
     font-size: 20px;
-    border-radius: 30px;
     text-align: center;
 }
 
 button {
     width: 200px;
     font-size: large;
-    border-radius: 10px;
-    background-color: rgb(48, 48, 48);
+    background-color: rgb(63, 38, 131);
     color: rgb(255, 255, 255);
+    margin-top: 10px;
 }
