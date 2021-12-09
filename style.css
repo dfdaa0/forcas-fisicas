@@ -19,7 +19,7 @@ body {
     color: white;
 }
 
-#texto {
+.texto {
     font-size: 25px;
     padding: 5px;
     line-height: 35px;
@@ -65,16 +65,9 @@ button {
     text-decoration: none;
 }
 
-#resultados {
+.resultados {
     font-size: 25px;
 }
-
-#texto2 {
-    font-size: 25px;
-    padding: 5px;
-    line-height: 35px;
-}
-
 #calculadora2 {
     text-align: center;
     margin-left: auto;
@@ -88,12 +81,4 @@ button {
 
 #calculadora2 input{
     width: 330px;
-}
-
-#resultados2 {
-    font-size: 25px;
-}
-
-#texto3 {
-    font-size: 25px;
 }
